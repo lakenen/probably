@@ -1,0 +1,21 @@
+{
+  "name": "probably",
+  "version": "0.0.1",
+  "description": "Do something... probably",
+  "main": "index",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lakenen/probably.git"
+  },
+  "author": {
+    "name": "Cameron Lakenen",
+    "email": "cameron.lakenen@gmail.com"
+  },
+  "license": {
+    "type": "MIT",
+    "url": "https://raw.github.com/lakenen/probably/master/LICENSE"
+  },
+  "bugs": {
+    "url": "https://github.com/lakenen/probably/issues"
+  }
+}
