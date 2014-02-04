@@ -12,6 +12,8 @@ npm install probably
 
 ## Usage ##
 
+Probably will call the given function with the given probability and return whatever the function returns or false if the function was not called.
+
 ```
 var probably = require('probably');
 
